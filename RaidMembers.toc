@@ -1,0 +1,9 @@
+## Interface: 70000
+## Title: RaidMembers
+## Notes: Show some stuff
+## Author: VTsepish
+## DefaultState: enabled
+## SavedVariables: RaidMembersDB, HaveWeMetCount
+## SavedVariablesPerCharacter: HaveWeMetBool
+
+core.lua
